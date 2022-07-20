@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @alokyadav2020
+- 👋 Hi, I’m Alok Ranjan, A freelance software developer.
 - 👀 I’m interested in Dot Net Projects
 - 🌱 I’m currently Working as a Freelancer 
 - 💞️ I’m experience in .Net Technology
